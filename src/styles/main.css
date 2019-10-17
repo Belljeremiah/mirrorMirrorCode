@@ -1,0 +1,11 @@
+#El {
+    border: 10px solid red;
+    display: flex;
+}
+body {
+    /* background-color: black; */
+}
+#Kabong {
+    border: 10px solid blue;
+    display: flex;
+}
